@@ -14,3 +14,9 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.popover {
+  width: 300px;
+  top: 10px !important;
+  left: 10px !important;
+}
